@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "35qAtkKLUqGU1ESWsDGe7GnAF8ZfbPhuSr28gRwEAo62", 
+  "symbol": "BOOB",
+  "name": "BooBits",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/boobits-token/main/boobits.png",
+  "tags": ["meme", "community", "halloween"]
+}
